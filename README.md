@@ -1,0 +1,2 @@
+# fgtparser
+Fortigate configuration parser
